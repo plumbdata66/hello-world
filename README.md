@@ -1,2 +1,2 @@
 # hello-world
-Hoouring the tradition of : "Hello World"
+Honouring the tradition of : "Hello World"
